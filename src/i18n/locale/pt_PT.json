@@ -162,8 +162,6 @@
   "components.Discover.recentlyAdded": "Adicionado Recentemente",
   "components.Discover.populartv": "Séries Populares",
   "components.Discover.popularmovies": "Filmes Populares",
-  "components.Discover.becauseyouwatched": "Porque viste",
-  "components.Discover.watchhistoryrecommendations": "Recomendado para ti",
   "components.CollectionDetails.requestcollection": "Pedir Coleção",
   "components.CollectionDetails.overview": "Sinopse",
   "components.CollectionDetails.numberofmovies": "{count} Filmes",
